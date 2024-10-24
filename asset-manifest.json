@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wtsan/static/css/main.6d9524b9.css",
+    "main.js": "/wtsan/static/js/main.749209ad.js",
+    "index.html": "/wtsan/index.html",
+    "main.6d9524b9.css.map": "/wtsan/static/css/main.6d9524b9.css.map",
+    "main.749209ad.js.map": "/wtsan/static/js/main.749209ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d9524b9.css",
+    "static/js/main.749209ad.js"
+  ]
+}
